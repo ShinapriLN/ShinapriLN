@@ -35,9 +35,7 @@ Loves programming, especially C/C++, using libraries such as SFML for physics si
 
 ## 💻 Tech Stack:
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,bun,html,css,js,express,fastapi,firebase,flask,flutter,github,npm,nuxtjs,nodejs,php,py,r,react,ruby,rust,sass,tailwind,ts,tensorflow,vue,anaconda,angular,arduino,bash,c,cs,cpp,dart,django,dotnet,elysia,fortran,go,java,kotlin,laravel,latex,lua,mysql,nestjs,opencv,pytorch," />
-  </a>
 </p>
 
 
