@@ -19,7 +19,7 @@ Loves programming, especially C/C++, using libraries such as SFML for physics si
 ---
 
 ## 🌱 Currently Learning:
-- Website development with **Next.js** และ **Tailwind CSS**  
+- Website development with **Next.js** and **Tailwind CSS**  
 - Programming with C++
 - Using Ai for Science and Engineering
 
