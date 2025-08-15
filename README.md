@@ -5,10 +5,10 @@ Passionate about developing web and applications with new technologies. like Rea
 Loves programming, especially C/C++, using libraries such as SFML for physics simulation and material science visualization. 🌌  
 
 ---
-
+<!--
 <p align="center"><img align="center" src="https://img.goodfon.com/wallpaper/nbig/8/19/tumannost-oriona-orion.webp"></img></p>
 
----
+--->
 
 ## 🚀 Interests:
 - Development of web application 📱  
@@ -28,16 +28,23 @@ Loves programming, especially C/C++, using libraries such as SFML for physics si
 
 ## 📫 How to reach me:
 <!-- 🌐 Website: [your-website.com](https://your-website.com)  -->
+<!--- 🎨 YouTube: [Shinz](https://www.youtube.com/@ShinaprideLucania)   -->
 - 🐦 Twitter(X): [@shinapri](https://x.com/shinapri)  
-- 🎨 YouTube: [Shinz](https://www.youtube.com/@ShinaprideLucania)  
-- 💻 GitHub: [ShinapriLN](https://github.com/ShinapriLN)  
+- 💻 GitHub: [ShinapriLN](https://github.com/ShinapriLN)
+- 🤗 HuggingFace: [Shinapri](https://huggingface.co/Shinapri)  
 
 ---
+### 🛠️ My Tech Stack
 
+| Languages          | AI / ML                        | Frontend / Backend        | OS & Tools                               |
+| ------------------ | ------------------------------ | ------------------------- | ---------------------------------------- |
+| `Python` `C++` `JS/TS` | `PyTorch` `Hugging Face` | `Next.js` `React` `Node.js` | `Arch Linux` `Git` `Docker` `VASP` `Neovim`|
+
+<!--
 ## 💻 Tech Stack:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,bun,html,css,js,express,fastapi,firebase,flask,flutter,github,npm,nuxtjs,nodejs,php,py,r,react,ruby,rust,sass,tailwind,ts,tensorflow,vue,anaconda,angular,arduino,bash,c,cs,cpp,dart,django,dotnet,elysia,fortran,go,java,kotlin,laravel,latex,lua,mysql,nestjs,opencv,pytorch," />
-</p>
+    <img src="https://skillicons.dev/icons?i=bun,express,fastapi,flask,github,py,react,tailwind,ts,tensorflow,bash,c,cs,cpp,elysia,latex,pytorch,transformers" />
+</p>-->
 
 
 <!--⭐️ จาก [ริน](https://github.com/rin-chan)!-->
