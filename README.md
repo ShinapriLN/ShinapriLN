@@ -2,7 +2,7 @@
 Hi! I'm Shinapri 🌟  
 currently studying at KMITL(King Mongkut's Institute of Technology Ladkrabang) in nanomaterial engineering and material science 🧪  
 Passionate about developing web and applications with new technologies. like React, Next.js, Tailwind CSS, etc 💻  
-Loves programming, especially C/C++, using libraries such as SFML for physics simulation and material science visualization. 🌌  
+Loves programming, especially C/C++, and Carbon!
 
 ---
 <!--
