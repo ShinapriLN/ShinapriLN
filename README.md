@@ -1,7 +1,7 @@
-# 💫 About Me:
-Hi! I'm Shinapri 🌟  
-currently studying at KMITL(King Mongkut's Institute of Technology Ladkrabang) in nanomaterial engineering and material science 🧪  
-Passionate about developing web and applications with new technologies. like React, Next.js, Tailwind CSS, etc 💻  
+# 💫 Me:
+Shinapri 🌟  
+Currently studying at KMITL(King Mongkut's Institute of Technology Ladkrabang) in Nanomaterial Engineering and Material Science 🧪  
+Passionate about developing web and applications and low level. 💻  
 Loves programming, especially C/C++, and Carbon!
 
 ---
@@ -11,10 +11,11 @@ Loves programming, especially C/C++, and Carbon!
 --->
 
 ## 🚀 Interests:
-- Development of web application 📱  
+- Development of web application 📱
+- Development of daily life tools 
 - Drawing and music composition 🎨🎵  
-- Learning about Material Science, Physics, and Chemistry, (Plus Biology) 🧬  
-- Training Ai and using them on work or anything 🤖  
+- Development of AI architecture 🤖
+- Learning about Material Science, Physics, and Chemistry, Biology 🧬  
 
 ---
 <!--
@@ -26,7 +27,7 @@ Loves programming, especially C/C++, and Carbon!
 ---
 -->
 
-## 📫 How to reach me:
+## 📫 Social:
 <!-- 🌐 Website: [your-website.com](https://your-website.com)  -->
 <!--- 🎨 YouTube: [Shinz](https://www.youtube.com/@ShinaprideLucania)   -->
 - 🐦 Twitter(X): [@shinapri](https://x.com/shinapri)  
@@ -38,7 +39,7 @@ Loves programming, especially C/C++, and Carbon!
 
 | Languages          | AI / ML                        | Frontend / Backend        | OS & Tools                               |
 | ------------------ | ------------------------------ | ------------------------- | ---------------------------------------- |
-| `Python` `C++` `JS/TS` | `PyTorch` `Hugging Face` | `Next.js` `React` `Node.js` | `Arch Linux` `Git` `Docker` `VASP` `Neovim`|
+| `Python` `C/C++` `JS/TS` `Rust` `Clara` | `PyTorch` `Hugging Face`, `Jax` `Zlynx` | `Next.js` `React` `Node.js` `Elizabeth` | `Arch Linux` `Git` `Docker` `VASP` `Neovim` `QE Scriptation` `Terminus`|
 
 <!--
 ## 💻 Tech Stack:
