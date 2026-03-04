@@ -1,7 +1,7 @@
 # 💫 Me:
 Shinapri 🌟  
 Currently studying at KMITL(King Mongkut's Institute of Technology Ladkrabang) in Nanomaterial Engineering and Material Science 🧪  
-Passionate about developing web and applications and low level. 💻  
+Passionate about developing web and applications and low level and AI. 💻  
 Loves programming, especially C/C++, and Carbon!
 
 ---
@@ -13,9 +13,9 @@ Loves programming, especially C/C++, and Carbon!
 ## 🚀 Interests:
 - Development of web application 📱
 - Development of daily life tools 
-- Drawing and music composition 🎨🎵  
+<!--- Drawing and music composition 🎨🎵  --->
 - Development of AI architecture 🤖
-- Learning about Material Science, Physics, and Chemistry, Biology 🧬  
+- Learning about Material Science, Physics, Chemistry, and Biology 🧬  
 
 ---
 <!--
@@ -46,6 +46,3 @@ Loves programming, especially C/C++, and Carbon!
 <p align="center">
     <img src="https://skillicons.dev/icons?i=bun,express,fastapi,flask,github,py,react,tailwind,ts,tensorflow,bash,c,cs,cpp,elysia,latex,pytorch,transformers" />
 </p>-->
-
-
-<!--⭐️ จาก [ริน](https://github.com/rin-chan)!-->
