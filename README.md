@@ -39,10 +39,10 @@ Loves programming, especially C/C++, and Carbon!
 
 | Languages          | AI / ML                        | Frontend / Backend        | OS & Tools                               |
 | ------------------ | ------------------------------ | ------------------------- | ---------------------------------------- |
-| `Python` `C/C++` `JS/TS` `Rust` `Clara` | `PyTorch` `Hugging Face`, `Jax` `Zlynx` | `Next.js` `React` `Node.js` `Elizabeth` | `Arch Linux` `Git` `Docker` `VASP` `Neovim` `QE Scriptation` `Terminus`|
+| `Python` `C/C++` `JS/TS` `Rust` | `PyTorch` `Hugging Face`, `Jax`  | `Next.js` `React` `Node.js`  | `Arch Linux` `Git` `Docker` `VASP` `Neovim` `QE Scriptation` |
 
-<!--
-## 💻 Tech Stack:
+<!-- `Zlynx` `Elizabeth` `Terminus` `Clara` 
+## 💻 Tech Stack: 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=bun,express,fastapi,flask,github,py,react,tailwind,ts,tensorflow,bash,c,cs,cpp,elysia,latex,pytorch,transformers" />
 </p>-->
