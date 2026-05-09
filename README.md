@@ -39,7 +39,7 @@ Loves programming, especially C/C++, and Carbon!
 
 | Languages          | AI / ML                        | Frontend / Backend        | OS & Tools                               |
 | ------------------ | ------------------------------ | ------------------------- | ---------------------------------------- |
-| `Python` `C/C++` `JS/TS` `Rust` | `PyTorch` `Hugging Face`, `Jax`  | `Next.js` `React` `Node.js` `Bun` `Elysia`  | `Arch Linux` `Git` `Docker` `VASP` `Neovim` `QE Scriptation` |
+| `Python` `C/C++` `JS/TS` `Rust` | `PyTorch` `Hugging Face`, `Jax`  | `Next.js` `React` `Node.js` `Bun` `Elysia`  | `Arch Linux` `Git` `Docker` `VASP` `Neovim` |
 
 <!-- `Zlynx` `Elizabeth` `Terminus` `Clara` 
 ## 💻 Tech Stack: 
