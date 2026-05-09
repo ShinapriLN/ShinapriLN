@@ -13,7 +13,6 @@ Loves programming, especially C/C++, and Carbon!
 ## 🚀 Interests:
 - Development of web application 📱
 - Development of daily life tools 
-<!--- Drawing and music composition 🎨🎵  --->
 - Development of AI architecture 🤖
 - Learning about Material Science, Physics, Chemistry, and Biology 🧬  
 
