@@ -2,7 +2,7 @@
 Shinapri 🌟  
 Currently studying at KMITL(King Mongkut's Institute of Technology Ladkrabang) 🧪  
 Passionate about developing web and applications and low level and AI. 💻  
-Loves programming, especially C/C++, and Carbon!
+Loves programming
 
 ---
 <!--
